@@ -4,4 +4,5 @@ design neural network model to classify subjects into drug classes depending on 
 1. Download FAERS data as required.
 2. Run append_input_files.py
 3. Run drug_and_ae.py
-4. To unpickle preprocessed data and to analyse data using neural network, launch Untitled.ipynb in a jupyter notebook.
+4. Run freq_perc_exenatide_vs_lira.py
+5. To analyse data using neural network, launch Untitled.ipynb in a jupyter notebook.
